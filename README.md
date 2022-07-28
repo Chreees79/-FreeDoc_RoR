@@ -18,9 +18,7 @@ Un doctor peut avoir plusieurs patient, au travers des appointments, et vice ver
  ## Afin de pouvoir le tester, ne pas oublier de faire un:
 
  ``
- 
 bundle install
-
 ``
 
  # MERCI DE TA VISITE
