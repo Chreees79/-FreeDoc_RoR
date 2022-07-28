@@ -15,5 +15,13 @@ Un doctor peut avoir plusieurs patient, au travers des appointments, et vice ver
  et de les lier en sachant que chaque docteur, patient, et rendez-vous est lié à une city. Une city peut avoir plusieurs docteurs, patients, et rendez-vous.
  - nous avons du supprimer la colonne spécialités pour les docteurs, et créer un modèle spécialité en sachant que un docteur aurait plusieurs specialty (DEAL_WITH_IT), et une specialty pourrait concerner plusieurs doctor.
 
+ ## Afin de pouvoir le tester, ne pas oublier de faire un:
+
+ ``
+ 
+bundle install
+
+``
+
  # MERCI DE TA VISITE
  
